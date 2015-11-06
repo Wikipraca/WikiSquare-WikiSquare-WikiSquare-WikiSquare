@@ -1,0 +1,94 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flickr Me\n"
+"POT-Creation-Date: 2015-06-22 16:46-0600\n"
+"PO-Revision-Date: 2015-06-22 16:46-0600\n"
+"Last-Translator: Heavy Heavy <hello@heavyheavy.com>\n"
+"Language-Team: Heavy Heavy <hello@heavyheavy.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: flickr-me.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/flickr-me-widget.php:106
+msgid "Display recent images from a designated Flickr account."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/flickr-me-widget.php:109
+msgid "Flickr Me"
+msgstr ""
+
+#: includes/flickr-me-widget.php:118 includes/flickr-me-widget.php:203
+msgid "Flickr Feed"
+msgstr ""
+
+#: includes/flickr-me-widget.php:155
+msgid "No images found."
+msgstr ""
+
+#: includes/flickr-me-widget.php:213
+msgid "Title"
+msgstr ""
+
+#: includes/flickr-me-widget.php:218
+msgid "Flickr User or Group ID"
+msgstr ""
+
+#: includes/flickr-me-widget.php:218
+msgid "Find your Flickr ID using idGettr"
+msgstr ""
+
+#: includes/flickr-me-widget.php:223
+msgid "Thumbnail Size"
+msgstr ""
+
+#: includes/flickr-me-widget.php:227
+msgid "Large Square 150 x 150"
+msgstr ""
+
+#: includes/flickr-me-widget.php:228
+msgid "Small 240 x 180"
+msgstr ""
+
+#: includes/flickr-me-widget.php:229
+msgid "Small 320 x 240"
+msgstr ""
+
+#: includes/flickr-me-widget.php:240
+msgid "Display title with small thumbnail"
+msgstr ""
+
+#: includes/flickr-me-widget.php:244
+msgid "This is a Flickr Group stream"
+msgstr ""
+
+#: includes/flickr-me-widget.php:248
+msgid "Images to Show"
+msgstr ""
+
+#: includes/flickr-me-widget.php:249
+msgid "Max: 20"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://heavyheavy.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add a Flickr feed to any widget ready area"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Heavy Heavy"
+msgstr ""

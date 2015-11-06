@@ -1,0 +1,75 @@
+/*! responsive-nav.js 1.0.32 by @viljamis */
+
+.nav ul {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+	list-style: none;
+	background-color: #000;
+	height: auto;
+	min-height: 40px;
+	float: left;
+}
+.nav li {
+	display: block;
+	float: left;
+	margin: 10px;
+	font-size: 18px;
+	font-weight: bold;
+	width:100%;
+}
+.js .nav {
+	clip: rect(0 0 0 0);
+	max-height: 0;
+	position: absolute;
+	display: block;
+	overflow: hidden;
+	zoom: 1;
+}
+.nav.opened {
+	max-height: 9999px;
+	width:100%;
+	float: left;
+}
+.disable-pointer-events {
+	pointer-events: none !important;
+}
+.nav-toggle {
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #000;
+	height: 20px;
+	width: 100%;
+	float: left;
+	padding: 10px;
+	color: #FFFFFF !important;
+}
+ @media screen and (min-width: 40em) {
+	 .nav li {
+	display: block;
+	float: left;
+	margin: 10px;
+	font-size: 18px;
+	font-weight: bold;
+	width:auto !important;
+}
+.js .nav {
+	position: relative;
+}
+.js .nav.closed {
+	max-height: none;
+}
+.nav-toggle {
+	display: none;
+	color: #FFFFFF !important;
+}
+
+}

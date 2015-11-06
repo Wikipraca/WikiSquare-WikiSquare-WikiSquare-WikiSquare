@@ -1,0 +1,2051 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Simple Security Firewall"
+msgstr ""
+
+#. Short description.
+msgid "Comprehensive and Easy-To-Use WordPress Security - Comes With Business Grade Support, with no &quot;premium&quot; restrictions"
+msgstr ""
+
+#. Found in description header.
+msgid "Plugin Admin Access Protection"
+msgstr ""
+
+#. Found in description header.
+msgid "Audit Trail Activity Monitor"
+msgstr ""
+
+#. Found in description header.
+msgid "Firewall Protection"
+msgstr ""
+
+#. Found in description header.
+msgid "Brute Force Login Protection and Two-Factor Authentication"
+msgstr ""
+
+#. Found in description header.
+msgid "Comment SPAM (Full replacement and upgrade from Akismet)"
+msgstr ""
+
+#. Found in description header.
+msgid "FABLE - Fully Automatic Black Listing Engine"
+msgstr ""
+
+#. Found in description header.
+msgid "WordPress Lock Down"
+msgstr ""
+
+#. Found in description header.
+msgid "Automatic Updates"
+msgstr ""
+
+#. Found in description header.
+msgid "The Simple Security Firewall Explained"
+msgstr ""
+
+#. Found in description header.
+msgid "Login and Identity Security Protection - Stops Brute Force Attacks"
+msgstr ""
+
+#. Found in description header.
+msgid "SPAM and Comments Filtering"
+msgstr ""
+
+#. Found in description list item.
+msgid "Easy-To-Setup Interface."
+msgstr ""
+
+#. Found in description list item.
+msgid "All Features available to everyone - no premium version."
+msgstr ""
+
+#. Found in description list item.
+msgid "Plugin Self Protection - the only WordPress Security Plugin that protects against tampering."
+msgstr ""
+
+#. Found in description list item.
+msgid "Exclusive membership to a private security group where you can learn more about WordPress security."
+msgstr ""
+
+#. Found in description list item.
+msgid "It blocks malicious URLs and requests to your site."
+msgstr ""
+
+#. Found in description list item.
+msgid "It blocks <strong>ALL</strong> automated spambot comments."
+msgstr ""
+
+#. Found in description list item.
+msgid "It hides your login page."
+msgstr ""
+
+#. Found in description list item.
+msgid "It prevents brute force attacks on your login and also any attempted automatic bot logins."
+msgstr ""
+
+#. Found in description list item.
+msgid "You can be sure that users are who they say they are (with Two-Factor Authentication)"
+msgstr ""
+
+#. Found in description list item.
+msgid "You can monitor user login activity and restrict username sharing (with User Sessions Management)"
+msgstr ""
+
+#. Found in description list item.
+msgid "You can see exactly what's going on with your site (with a detailed Audit Trail Log)"
+msgstr ""
+
+#. Found in description list item.
+msgid "You can turn on and turn off WordPress Automatic Updates."
+msgstr ""
+
+#. Found in description list item.
+msgid "Easy to use kill switch to temporarily turn off all Firewall Features without disabling the plugin or even logging into WordPress."
+msgstr ""
+
+#. Found in description list item.
+msgid "7 Simple, clear, Firewall blocking options - pick and choose for ultimate protection and compatibility."
+msgstr ""
+
+#. Found in description list item.
+msgid "Option: Ignore already logged-in Administrators so you don't firewall yourself as you work on the site."
+msgstr ""
+
+#. Found in description list item.
+msgid "Option: IP Address Whitelist. So you can vet your own IP addresses and 3rd Party Services."
+msgstr ""
+
+#. Found in description list item.
+msgid "Option: IP Address Blacklist so you can completely block sites/services based on their IP address."
+msgstr ""
+
+#. Found in description list item.
+msgid "Option: to easily turn on / off the whole firewall without disabling the whole plugin! (so simple, but important)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Logging: Full logging of Firewall (and other options) to analyse and debug your traffic and settings."
+msgstr ""
+
+#. Found in description list item.
+msgid "Option: Email when firewall blocks a page access - with option to specify recipient."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://icwp.io/2v\">Email-based 2-Factor Login Authentication</a> based on IP address! (prevents brute force login attacks)"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://icwp.io/2t\">Login Cooldown Interval</a> - WordPress will only process 1 login per interval in seconds (prevents brute force login attacks)"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://icwp.io/2u\">GASP Anti-Bot Login Form Protection</a> - Adds 2 protection checks for all WordPress login attempts (prevents brute force login attacks using Bots)"
+msgstr ""
+
+#. Found in description list item.
+msgid "The visitors IP address."
+msgstr ""
+
+#. Found in description list item.
+msgid "The Page they are viewing"
+msgstr ""
+
+#. Found in description list item.
+msgid "A unique, random number, generated at the time the page is loaded."
+msgstr ""
+
+#. Found in description list item.
+msgid "Expirations mean that a spambot cannot get the token and use it whenever it likes, it must use it within the specfied time."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Are you looking to secure your WordPress site but without getting overwhelmed?"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The WordPress Security Firewall is the easiest to use, most reliable <a href=\"http://icwp.io/wpsf09\">WordPress Security System</a> available today."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "What makes the Simple Security Firewall different?"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Don't let <strong>Simple</strong> Security fool you - simple doesn't mean <em>soft</em>, it means easy to use, uncomplicated protection."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The <strong>only</strong> WordPress security plugin with a WordPress-independent security key to protects itself. <a href=\"http://icwp.io/wpsf05\">more info</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With the Audit Trail you can review all major actions that have taken place on your WordPress site, by all users."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Blocks all web requests to the site that violate the firewall security rules! <a href=\"http://icwp.io/wpsf06\">more info</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Provides effective security against Brute Force Hacking and email based Two-Factor Authenticated login. <a href=\"http://icwp.io/wpsf07\">more info</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Blocks <strong>ALL</strong> automatic Bot-SPAM, and catches Human Comments SPAM without sending data to 3rd parties or charging subscription fees. <a href=\"http://icwp.io/wpsf08\">more info</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "No more manual IP Black lists. This plugin handles the blocking of IP addresses for hosts that are naughty."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Numerous security and protection mechanisms to lock down your WordPress admin area, such as blocking file edits and enforcing SSL."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Take back control of your WordPress Automatic Updates."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "[youtube http://www.youtube.com/watch?v=r307fu3Eqbo]"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The WordPress Simple Security Firewall is built to be highly reliable, and easy to use by <strong>anyone</strong>!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Originally built off the WordPress Firewall 2, it now includes much more:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Basic functionality is based on the principles employed by the <a href=\"http://wordpress.org/plugins/wordpress-firewall-2/\">WordPress Firewall 2 plugin</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Note: Login Protection is a completely independent feature to the Firewall."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With the Login Protection features this plugin will single-handedly prevent brute force login attacks on all your WordPress sites."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"It doesn't need IP Address Ban Lists (which are actually useless anyway), and instead puts hard limits on your WordPress site,\n"
+"and force users to verify themselves when they login."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Three core security features provide layers to protect the WordPress Login system."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "These options alone will protect and secure your WordPress sites from nearly all forms of Brute Force login attacks."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "And you hardly need to configure anything! Simply check the options to turn them on, set a cooldown interval and you're instantly protected."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "As of version 1.6, this plugin integrates <a href=\"http://wordpress.org/plugins/growmap-anti-spambot-plugin/\">GASP Spambot Protection</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "We have taken this functionality a level further and added the concept of unique, per-page visit, Comment Tokens."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Comment Tokens</strong> are unique keys that are created every time a page loads and they are uniquely generated based on 3 factors:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This is all handle automatically and your users will not be affected - they'll still just have a checkbox like the original GASP plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"These comment tokens are then embedded in the comment form and must be presented to your WordPress site when a comment is posted.  The plugin\n"
+"will then examine the token, the IP address from which the comment is coming, and page upon which the comment is being posted.  They must\n"
+"all match before the comment is accepted."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Furthermore, we place a cooldown (i.e. you must wait X seconds before you can post using that token) and an expiration on these comment tokens.\n"
+"The reasons for this are:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This all combines to make it much more difficult for spambots (and also human spammers as they have to now wait) to work their dirty magic :)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Browse to Plugins -&gt; Add Plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search: WordPress Simple Firewall"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click Install"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click to Activate."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"Note: When you enable the plugin, the firewall is not automatically turned on. This plugin contains various different sections of\n"
+"protection for your site and you should choose which you need based on your own requirements."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"Why do we do this?  Simple, performance and optimization - there is no reason to automatically turn on features for people that don't\n"
+"need it as each site and set of requirements is different."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "This plugin should install as any other WordPress.org respository plugin."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "A new menu item will appear on the left-hand side called 'Simple Firewall'."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  NEW:           Added option to block the modification, addition/promotion and deletion of WordPress administrators users within the 'Security Admin' module."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  NEW:           Renamed 'Admin Access' module to 'Security Admin'."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Simplified and consolidated the use of cookies for User Session - sets and removes cookies better to reduce their usage."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Simplified and consolidated the use of cookies for Two Factor Login Authentication."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Cleaned up some Comment SPAM filtering code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Comments Filter doesn't use cookies unless a session cookie for the visitor already exists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       IP Manager Automatic Black List - default black list duration is now 1 minute &amp; default transgressions limit is 10"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Improvements to the database create queries: use MySQL Engine defaults (instead of MyISAM); use WordPress dbDelta() for updates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Various code optimizations and cleaning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Renamed 'Admin Access' module to 'Security Admin'."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Simplified and consolidated the use of cookies for user sessions - sets and removes cookies better to reduce their usage."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  NEW:           Option to completely disable the XML-RPC system. <a href=\"http://icwp.io/wpsf31\">more info</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:       Logged-in users are automatically forwarded to the WordPress admin only if they are Administrators."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  NEW:           Ability to now completely block the update/changing of certain WordPress site options. <a href=\"http://icwp.io/wpsf30\">more info</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  FIXED:         Various small bugs with the IP Manager UI ajax."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  FIXED:         Uncaught PHP Exception when a site's hosting isn't properly configured to handle IPv6 addresses."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  TRANSLATIONS:  Danish - 57%, Czech - 100%, Finnish - 94%"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  REFACTOR:      Notifications system is more reliable and most notices can be hidden/closed (at least for the current page load as some notices are persistent)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  REMOVED:       The old manual black list option has been completely removed - in favour of the automatic black list system."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  CHANGED:       Revised the order of certain hooks being created to avoid the possibility of pluggable.php not being loaded for PHP Shutdown."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  CHANGED:       The presence of IP addresses in the IP Whitelist will force the IP Manager feature to be enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  CHANGED:       We now make an attempt to prevent the caching of WordPress wp_die() pages that we generate. (compatible with at least W3TC, Super Cache)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p><strong>(v.4)</strong>  TRANSLATIONS:  Turkish - 100%, Danish - 3%</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p><strong>(v.3)</strong>  FIXED:         Another PHP 5.2 incompatibility.</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  ADDED:         White Listing UI to the IP Manager - CIDR ranges are supported (also automatically migrates IPs, except ranges, from legacy to new)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  ADDED:         Returned the black marking of failed WP login attempts to the automatic black list system"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  ADDED:         Using a 3rd party API service: <a href=\"https://www.ipify.org/\">ipify.org</a> - to find the server's own IP address so we can ensure it's not used in the black lists"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  CHANGED:       AJAX calls are handled more robustly with actual error messages where possible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p><strong>(v.2)</strong>  FIXED:         A few black list processing bugs.</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p><strong>(v.1)</strong>  ADDED:         UI to view and remove IP address from Automatic Black List Engine.</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  FIX:           Removed transgression counting on failed logins - WP data is inconsistent."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  CHANGED:       Original legacy white list now takes priority over new auto black list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  CHANGED:       Default transgressions limit is now 7"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  ADDED:         Ability to reset plugin options to default using 'reset' flag file. <a href=\"http://icwp.io/wpsf28\">more info</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  NEW FEATURE:   'FABLE' - <a href=\"http://icwp.io/wpsf27\">Fully Automatic Black Listing Engine</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hands Free - Automatic. No more need for maintaining manual black lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Loads first before other plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Automatic pruning. Based on expiration time you specify, older IP address will be removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased Performance. With automatic pruning, IP look-up tables remain small and concise so page load times for legitimate visitors is minimally affected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adaptive. It wont just block based on 1 misdemeanour - instead you may allow any given visitor grace to legitimately get things wrong (like login passwords)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Intelligent. With an fully integrated plugin such as this, it uses login failure attempts, spam comment attempts, login brute force attempts to capture malicious visitors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Attempt to login with an invalid username/password combination"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Any attempt to login while the login cooldown system is in-effect"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Any login attempt that trips the GASP Login protection system"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Any login attempt with a username that doesn't exist"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Any attempt to access /wp-admin/, /login/, or wp-login.php while the Rename WP Login setting is active"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Any comment that gets labelled as SPAM by the plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Failed attempt to authenticate with the plugin's Admin Access Protection module"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Any trigger of a Firewall block rule"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.8)</strong>  CHANGED:       Firewall, User Sessions and Lockdown Feature Modules are now enabled by default for new installations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.8)</strong>  FIX:           Some server email programs can't handle colons (:) in the email subject (because supporting all characters would be waaay too radical man)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.8)</strong>  ADDED:         Function to better get the WordPress home URL to prevent interference from other plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.8)</strong>  CHANGED:       Updated Text For <a href=\"http://icwp.io/6e\">Author Scan Block</a> feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.7)</strong>  CHANGED:       How author query blocking works to be more reliable and stricter - only runs when users are not logged in, and it will DIE instead of redirect."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.6)</strong>  ADDED:         New Option: prevent detection of usernames using the ?author=N query. (location under section: Lockdown -&gt; Obscurity)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.6)</strong>  FIXED:         Infinite redirect loop logic prevents redirect for rejected comment SPAM that's posted in bulk. This results in email notifications for spam comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.5)</strong>  ADDED:         The plugin will load itself first before all other plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.5)</strong>  FIXED:         No longer using parse_url() to determine the request URL as it's too inconsistent and unreliable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  FIX:           Audit Trail Viewer display issue with non-escaped HTML (Thanks Chris!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  ADDED:         An admin warning for sites with PHP version less than 5.3.2 (future versions will require this as a minimum)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  TRANSLATIONS:  Danish - 6%, Spanish - 76%"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  ADDED:         Further checking for availability of certain PHP/server data before enabling the rename WordPress login feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  ADDED:         Option to add the Plugin Badge as a Widget to your side-bar or page footer, or any other widget area."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  TRANSLATIONS:  Polish - 100%"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  ADDED:         Email notifications sent out to report email address on a daily cron. <a href=\"https://www.icontrolwp.com/2015/07/plugin-vulnerability-email-notifications/\">more info</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  FIX:           Work around a WordPress inline plugin update Javascript bug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  FIX:           Fix syntax support for earlier versions of PHP."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  FEATURE:       Plugin Vulnerabilities Detection: If you're running plugins with known vulnerabilities you will be warned - <a href=\"http://icwp.io/wpsf22\">more info</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  FEATURE:       Admin Access Restriction Areas - Restrict access to certain WordPress areas and functionality to <strong>Administrators</strong> with the Admin Access key."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  ADDED:         Admin Access Restriction Area - Plugins. You can now restrict access to certain Plugin actions - activate, install, update, delete."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  ADDED:         Admin Access Restriction Area - Themes. You can now restrict access to certain Theme actions - activate, install, update, delete."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  ADDED:         Admin Access Restriction Area - Pages/Post. You can now restrict access to certain Page/Post actions - Create/Edit, Publish, Delete."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.7)</strong>  FIXED:         The text used to explain why some comments were marked as spam was broken."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.7)</strong>  FIXED:         Group sign-up form now honours your SSL setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.7)</strong>  TRANSLATIONS:  Spanish - 74%, Russian - 91%, Turkish - 94%, Polish- 95%, Finnish - 100%"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.6)</strong>  FIXED:         Verifying ability to send/receive email doesn't complete if Admin Access Protection is turned on."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.6)</strong>  FIXED:         GASP Login Protection feature breaks because certain key options aren't initialized when the feature is enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.6)</strong>  FIXED:         Some \"more info\" links were empty."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  ADDED:         Email Sending Verification when enabling two-factor authentication - this ensures your site can send (and you can receive) emails."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  ADDED:         Section Summaries - each option tab contains a small text summary outlining the purpose and recommendation for each."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  CHANGED:       The Admin Access Key input is now a password field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  CHANGED:       Custom Login URL now works with or without trailing slash."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  CHANGED:       Streamlining and improvement of PHP UI templates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  ADDED:         Implemented TWIG for templates (not yet activated)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  TRANSLATIONS:  Romanian (100%), Spanish-Spain (63%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  ADDED:         Integrated protection against 2x RevSlider vulnerabilities (Local File Include and Arbitrary File Upload)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  CHANGED:       Reverted the addition of Permalinks/Rewrite rules flushing, in case this is a problem for some."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  UPDATED/FIX:   Major fixes and improvements to the rename wp-login.php feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  TRANSLATIONS:  Mexican-Spanish (61%), Arabic (38%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  FIX:           Silence warnings from filesystem touch() command."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  TRANSLATIONS:  Polish (100%), Finnish (100%), Czech (73%), Arabic (34%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  UPDATED:       Options page user interface re-design."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  FIX:           Audit trail time now reflects the user's timezone correctly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  FIX:           Better compatibility with BBPress."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  UPDATED:       Underlying plugin code improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  TRANSLATIONS:  Russian (100%), Czech (70%), Polish (97%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  SECURITY:  Added protection against XSS vulnerability in WordPress comments. <a href=\"http://icwp.io/63\">Learn More</a> - Note: This is not a vulnerability with the Firewall plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  SECURITY:  Added extra precautions to WordPress URL redirects. <a href=\"http://icwp.io/64\">Learn More</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  TRANSLATIONS: Russian (70%), Czech (67%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  FIX:       Bug with the database table verification logic."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  TRANSLATIONS: Russian (New- 54%), Romanian (100%), Turkish (89%), Czech (53%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  FIX:       XMLRPC compatibility logic was preventing other non-XMLRPC related code from running."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  UPDATED:   Plugin Badge styling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  UPDATED:   Updated Czech(41%) and Spanish (60%) translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  ADDED:     New feature that displays the last login time for all users on the users listing page (User Management feature must be enabled)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  ADDED:     <strong>Completely optional</strong> promotional Plugin Badge option - help us promote the plugin and reassure your site visitors at the same time. <a href=\"http://icwp.io/5x\">Learn More</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  UPDATED:   Updated Czech(38%) translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.5)</strong>  CHANGED:   Updated Finnish (100%), Czech (16%) translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.5)</strong>  CHANGED:   Change logs now more clearly display changes between versions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.5)</strong>  FIX:       Small translation coverage"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  ADDED:     New and updated language translations including Polish (100%), Finnish"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  FIX:       Better string translation coverage for menus etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  ADDED:     New and updated language translations including Polish, Czech and German"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.3)</strong>  CHANGED:   Only set the plugin cookie if necessary"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  CHANGED:   Attempt to resolve DB errors related to transient options reported on WP Engine"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  ADDED:     New feature- GASP Login Protection can now be applied to lost password form - enabled by default"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  ADDED:     New feature- GASP Login Protection can now be applied to user registrations - enabled by default"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  ADDED:     Romanian Translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  ADDED:     A plugin minimum-requirements processing system."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  IMPROVED:  The WordPress admin-UI code is simpler and cleaner."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.1)</strong>  ADDED:     <strong>Significant</strong> performance enhancement in plugin loading times (up to 50% reduction)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:   The 'Prevent Remote Login' option now tries to detect web hosting server compatibility before allowing it to be enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:   More lax in finding the 'forceOff' file when users are trying to turn off the firewall."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.0)</strong>  CHANGED:   Parsing the URL no longer outputs warnings that might interfere with response headers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.6)</strong>  FIXES:     More thorough validation of whitelisted IP addresses"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.5)</strong>  FIXES:     Some hosting environments need absolute file paths for PHP include()/require()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.5)</strong>  CHANGED:   Streamlined the detection of whitelisting and added in-plugin notification if <strong>you</strong> are whitelisted"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.4)</strong>  FIXES:     Work around for cases where PHP can't successfully run parse_url()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>(v.2)</strong>  IMPROVED:  Refactoring for better code organisation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      New Feature - <a href=\"http://icwp.io/5s\">Rename WP Login Page</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      UI indicators on whether plugins will be automatically updated in the plugins listing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    IP Address WhiteList is now global for the whole plugin, and can be accessed under the \"Dashboard\" area"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IMPROVED:   Firewall processing code is simplified and more efficient."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Changes to how feature specifications are read from disk to prevent .tmp file build up."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Audit Trail Auto Cleaning - default cleans out entries older than 30 days."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Various small bug fixes and code cleaning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Fixed small logic bug which prevented deactivation of the plugin on the UI."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IMPROVED:   User Sessions are simplified."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED:    a few translation files based on the latest available contributions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Self-correcting database table validation - if the structure of a database table isn't what is expected, it'll be re-created."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WARNING:    Due to new IPv6 support, all databases tables will be rebuilt - all active user sessions will be destroyed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Preliminary support for IPv6 addresses throughout. We don't support whitelist ranges but IPv6 addresses are handled much more reliably in general."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      New audit trail concept added called \"immutable\" that represents entries that will never be deleted - such entries would usually involve actions taken on the audit trail itself."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Support for audit trail events with longer names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IMPROVED:   Comments Filtering - It now honours the WordPress settings for previously approved comment authors and never filters such comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "REMOVED:    Option to enable GASP Comments Filtering for logged-in users has been completely removed - this reduces plugin options complexity. All logged-in users by-pass <strong>all</strong> comments filtering."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Prevention against plugin redirect loops under certain conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      IP whitelisting wasn't working under certain cases."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      New Feature - Audit Trail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Audit Trail options include: Plugins, Themes, Email, WordPress Core, Posts/Pages, WordPress Simple Firewall"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Full and proper cleanup of plugin options, crons, and databases upon deactivation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "REMOVED:    Firewall Log. This is no longer an option and is instead integrated into the \"WordPress Simple Firewall\" Audit Trail."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Better admin notifications for events such as options saving etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGE:     Some plugin styling to highlight features and options better."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Small bug with options default values."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      A warning message on the WordPress admin if the \"forceOff\" override is active."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    The 'forceOff' system is now temporary - i.e. it doesn't save the configuration, and so once this file is removed, the plugin returns to the settings specified."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    The 'forceOn' option is now removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Problems with certain hosting environments reading in files with the \".yaml\" extension - <a href=\"https://wordpress.org/support/topic/yaml-breaks-plugin\">support ref</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Small issue where when the file system paths change, some variables don't update properly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Plugin features are now configured <a href=\"https://github.com/mustangostang/spyc/\">using YAML</a> - no more in-PHP configuration."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "REMOVED:    A few options from User Sessions Management as they were unnecessary."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Database storing tables now have consistent naming."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Issue with User Sessions Management where '0' was specified for session length, resulting in lock out."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Firewall log gathering."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Various PHP warning notices."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Option to limit number of simultaneous sessions per WordPress user login name (User Management section)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Option to send notification when an administrator user logs in successfully (under User Management menu)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Refactoring for how GET and POST data is retrieved"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Custom Comment Filter message problem when using more than one substitution. <a href=\"http://wordpress.org/support/topic/warning-sprintf-too-few-arguments-in-hometnrastropublic_htmlwpwp-conten?replies=8#post-5927337\">ref</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Options to allow by-pass XML-RPC so as to be compatible with WordPress iPhone/Android apps."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED:    Login screen message when you're forced logged-out due to 2-factor auth failure on IP or cookie."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Tweaked method for setting admin access protection on/off"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    comment filtering code refactoring."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Options that were \"multiple selects\" weren't saving correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Where some comments would fail GASP comment token checking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Logout URL parameters are now generated correctly so that the correct messages are shown."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    small optimizations and code refactoring."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        issue with login cooldown timeouts not being updated where admin access restriction is in place."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        auto-updates feature not loading"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        simplified implementation of login protection feature to reduce possibility for bugs/lock-outs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        auto-forwarding for wp-login.php was preventing user logout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      option to check the logged-in user session only on WordPress admin pages (now the default setting)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      option to auto-forward to the WordPress dashboard when you go to wp-login.php and you're already logged in."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      message to login screen when no user session is found"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    does not verify session when performing AJAX request. (need to build appropriate AJAX response)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        for wp_login action not passing second argument"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    User Management. Phase 1 - create user sessions to track current and attempted logged in users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    MASSIVE plugin refactoring for better performance and faster, more reliable future development of features"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Obscurity Feature - ability to remove the WP Generator meta tag."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      ability to change user login session length in days"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      ability to set session idle timeout in hours"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      ability to lock session to a particular IP address (2-factor auth by IP is separate)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      ability to view active user sessions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      ability to view last page visited for active sessions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      ability to view last active time for active sessions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      ability to view failed or attempted logins in the past 48hrs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Support for GASP login using WooCommerce"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Admin Access Restriction now has a separate options/feature page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Admin styling to better see some selected options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Support for WP Wall shoutbox plugin (does no GASP comment checks)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Removed support for upgrading from versions prior to 2.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Removed support for importing from Firewall 2 plugin - to import, manually install plugin v2.6.6, import settings, then upgrade."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Improved compatibility with bbPress."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Could not enable Admin Access Protection feature on new installs due to too aggressive testing on security."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ENHANCED:   Dashboard now shows a more visual summary of settings and removes duplicate options settings with links to sections."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ENHANCED:   WordPress Lock Down options now also set the corresponding WordPress defines if they're not already."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      More in-line plugin links to help/blog resources"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ENHANCED:   <a href=\"http://icwp.io/5b\">Admin Access Protection</a> is further enhanced in 3 ways:"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More robust cookie values using MD5s"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Blocks plugin options updating right at the point of WordPress options update so nothing can rewrite the actual plugin options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Locks the current Admin Access session to your IP address - effectively only 1 Simple Firewall admin allowed at a time."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ENHANCED:   Added option to completely reject a SPAM comment and redirect to the home page (so it doesn't fill up your database with rubbish)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Plugin now has an internal stats counter for spam and other significant plugin events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Plugin now installs with default SPAM blacklist."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Now automatically checks and updates the SPAM blacklist when it's older than 48hrs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ENHANCED:   Comment messages indicate where the SPAM content was found when marking human-based spam messages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    Added Human SPAM comments filtering - replacement for Akismet that doesn't use or send any data to 3rd party services. Uses <a href=\"https://github.com/splorp/wordpress-comment-blacklist\">Blacklist provided and maintained by Grant Hutchinson</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ENHANCED:   Two-Factor Login now automatically logs in the user to the admin area without them having to re-login again."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ENHANCED:   Added ability to terminate all currently (two-factor) verified logins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ENHANCED:   Spam filter/scanning adds an explanation to the SPAM content to show why a message was filtered."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXES:      For PHP warnings while in php strict mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CLEAN:      Much cleaning up of code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    Added option to try and exclude search engine bots from firewall checking option - OFF by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    Added 'PHP Code' Firewall checking option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IMPROVED:   Handling and logic of two-factor authentication and user roles/levels"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    Added ability to specify the particular WordPress user roles that are subject to 2-factor authentication. (Default: Contributors, Authors, Editors and Administrators)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    Added 'Lockdown' feature to force login to WordPress over SSL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    Added 'Lockdown' feature to force WordPress Admin dashboard to be delivered over SSL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Admin restricted access feature wasn't disabled with the \"forceOff\" option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        How WordPress Automatic/Background Updates filters worked was changed with WordPress 3.8.2."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED:    Translations. And confirmed compatibility with WordPress 3.9"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    Option to Prevent Remote Posting to the WordPress Login system. Will check that the login form was submitted from the same site."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED:    Translations and added some partials (Catalan, Persian)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        for cleanup cron running on non-existent tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FEATURE:    Two-Factor Authenticated Login using <a href=\"http://icwp.io/4i\">Yubikey</a> One Time Passwords (OTP)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Translations: Spanish, Italian, Turkish. (~15% complete)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED:    Hebrew Translations (100%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Contextual help links for many options.  More to come..."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      More Portuguese (Brazil) translations (~80%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      More strings to the translation set for better multilingual support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Portuguese (Brazil) translations (~40%)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED:    Hebrew Translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Automatic cleaning of database logs wasn't actually working as expected. Should now be fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NEW:        Option to enable Two-Factor Authentication based on Cookie. In this way you can tie a user session to a single browser."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Better WordPress Multisite (WPMS) Support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Automatic updating of itself."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Hebrew Translations. Thanks <a href=\"http://atar4u.com\">Ahrale</a>!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Automatic trimming of the Firewall access log to 7 days - it just grows too large otherwise."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Some small bugs, errors, and PHPDoc Comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Automatic cleaning of GASP Comments Filter and Login Protection database entries (older than 24hrs) using WordPress Cron (everyday @ 6am)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Huge code refactoring to allow for more easily use with other WordPress plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Email sending options for automatic update notifications - options to change the notification email address, or turn it off completely."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Small bug fix."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    When running a force automatic updates process, tries to remove influence from other plugins and uses only this plugin's automatic updates settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    A bit of automatic updates code refactoring."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Changed all options to be disabled by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    The option for admin notices will turn off all main admin notices except after you update options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Verified compatibility with WordPress 3.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Certain filesystem calls are more compatible with restrictive hosting environments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Plugin is now ready to integate with <a href=\"http://www.icontrolwp.com/2013/11/manage-wordpress-automatic-background-updates-icontrolwp/\">iControlWP automatic background updates system</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Login Protection Cooldown feature may not operate properly in certain scenarios."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IMPROVED:   Improved logic for Firewall whitelisting for pages and parameters to ensure whitelisting rules are followed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    The whitelisting rule for posting pages/posts is only for the \"content\" and the firewall checking will apply to all other page parameters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        When you run the Force Automatic Background Updates, it disables the plugins.  This problem is now fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        A bug that prevented auto-updates of this plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Not being able to hide translations and upgrade notices."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Tweaks to auto-update feature to allow interfacing with the iControlWP service to customize the auto update system."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      A button that lets you run the WordPress Automatic Updates process on-demand (so you don't have to wait for WordPress cron)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    The plugin now sets more options to be turned on by default when the plugin is first activated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    A lot of optimizations and code refactoring."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Whoops, sorry, accidentally removed the option to toggle \"disable file editing\".  It's back now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    WordPress filters used to programmatically update whitelists now update the Login Protection IP whitelist"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Localization capabilities. All we need now are translators! <a href=\"http://translate.icontrolwp.com/\">Go here to get started</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Option to mask the WordPress version so the real version is never publicly visible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Simplified the automatic WordPress Plugin updates into 1 filter for consistency"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Increased admin access security features - blocks the deactivation of itself if you're not authenticated fully with the plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      If you're not authenticated with the plugin, the plugin listing view wont have 'Deactivate' or 'Edit' links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      New WordPress Automatic Updates Configuration settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Notification of available plugin upgrade is now an option under the 'Dashboard'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Certain admin and upgrade notices now only appear when you're authenticated with the plugin (if this is enabled)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      PHP Notice with undefined index."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Feature- Access Key Restriction <a href=\"http://icwp.io/2s\">more info</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Feature- WordPress Lockdown. Currently only provides 1 option, but more to come."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Reworked a lot of the plugin to optimize for further performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Potential infinite loop in processing firewall."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Much more efficiency yet again in the loading/saving of the plugin options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Preliminary WordPress Multisite (WPMS/WPMU) Support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "REMOVED:    Automatic upgrade option until I can ascertain what caused the plugin to auto-disable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Options to fully customize the text displayed by the GASP comments section."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Option to include logged-in users in the GASP Comments Filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      A new section - 'Comments Filtering' that will form the basis for filtering comments with SPAM etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Option to add enhanced GASP based comments filtering to prevent SPAM bots posting comments to your site."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IMPROVED:   Whitelist/Blacklist IP range processing to better cater for ranges when saving, with more thorough checking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IMPROVED:   Whitelist/Blacklist IP range processing for 32-bit systems."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      A bug with Whitelist/Blacklist IP checking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Quite a few bugs fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Typo error."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Some of the firewall processors were saving unnecessary data."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    The method for finding the client IP address is more thorough, in a bid to work with Proxy servers etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      PHP notice reported here: http://wordpress.org/support/topic/getting-errors-when-logged-in"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Bug fix where IP address didn't show in email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Attempt to fix problem where update message never hides."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      A new IP whitelist on the Login Protect that lets you by-pass login protect rules for given IP addresses."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "REMOVED:    Firewall rule for wp-login.php and whitelisted IPs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      The plugin now has an option to automatically upgrade itself when an update is detected - enabled by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      The plugin will now displays an admin notice when a plugin upgrade is available with a link to immediately update."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Plugin collision: removes the main hook by 'All In One WordPress Security'. No need to have both plugins running."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Improved Login Cooldown Feature- works more like email throttling as it now uses an extra filesystem-based level of protection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Login Cooldown Feature didn't take effect in certain circumstances."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      All-new plugin options handling making them more efficient, easier to manage/update, using far fewer WordPress database options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Huge improvements on database calls and efficiency in loading plugin options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Nonce implementation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED:      Small compatibility issue with Quick Cache menu not showing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Email Throttle Feature - this will prevent you getting bombarded by 1000s of emails in case you're hit by a bot."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Another Firewall die() option. New option will print a message and uses the wp_die() function instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Refactored and improved the logging system (upgrading will delete your current logs!)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Option to separately log Login Protect features."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Login Protect checking now better logs out users immediately with a redirect."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    We now escape the log data being printed - just in case there's any HTML/JS etc in there we don't want."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Optimized and cleaned a lot of the option caching code to improve reliability and performance (more to come)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Bug where the GASP Login protection was only working when you had 2-factor authentication enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Ability to import settings from WordPress Firewall 2 plugin options - note, doesn't import page and variables whitelisting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        A reported bug - parameter values could also be arrays."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      New Feature - Option to add a checkbox that blocks automated SPAM Bots trying to log into your site."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Added a clear user message when they verify their 2-factor authentication."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        A few bugfixes and logic corrections."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Documentation on the dashboard, and the message after installing the firewall have been updated to be clearer and more informative."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        bugfix."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX:        Some warnings and display bugs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Optimized some settings for performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Cleaned up the UI when the Firewall / Login Protect features are disabled (more to come)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Further code improvements (more to come)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      New Feature - <strong>Login Protect</strong>. Added 2-Factor Login Authentication for all users and their associated IP addresses."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    The method for processing the IP address lists is improved."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Improved .htaccess rules (thanks MickeyRoush)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Mailing method now uses WP_MAIL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED:    Lot's of code improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED:      Option to include Cookies in the firewall checking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED: Ability to whitelist particular pages and their parameters (see FAQ)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED: Quite a few improvements made to the reliability of the firewall processing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIX: Left test path in plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED: Option to completely ignore logged-in Administrators from the Firewall processing (they wont even trigger logging etc)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED: Ability to (un)blacklist and (un)whitelist IP addresses directly from within the log."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ADDED: helpful link to IP WHOIS from within the log."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CHANGED: Logging now has its own dedicated database table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Block notification emails weren't showing the user-friendly IP Address format."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now specify IP ranges in whitelists and blacklists. To do this separate the start and end address with a hypen (-)  E.g. For everything between 1.2.3.4 and 1.2.3.10, you would do: 1.2.3.4-1.2.3.10"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now specify which email address to send the notification emails."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now add a comment to IP addresses in the whitelist/blacklist. To do this, write your IP address then type a SPACE and write whatever you want (don't take a new line)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now set to delete ALL firewall settings when you deactivate the plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved formatting of the firewall log."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First Release"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 22nd October, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 10th October, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 5th October, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 23rd August, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>(v.4)</strong>  TRANSLATIONS:  Turkish - 100%, Danish - 3%"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>(v.3)</strong>  FIXED:         Another PHP 5.2 incompatibility."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>(v.2)</strong>  FIXED:         A few black list processing bugs."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>(v.1)</strong>  ADDED:         UI to view and remove IP address from Automatic Black List Engine."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Simply put, FABLE will automatically block all malicious traffic by IP, based on their activity. This Security Plugin will track malicious behaviour\n"
+"and count all transgressions that visitors make against the site.  Once a particular visitor exceeds the specified number transgressions, FABLE\n"
+"will outright block any access they have to your WordPress site."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "What makes the FABLE system better?"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Which actions will trigger an ABLE transgression?"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 7th July, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 21st June, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 29th April, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 10th April, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 6th March, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 21st February, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 15th January, 2015</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 22th December, 2014</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 12th December, 2014</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 24th November, 2014</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>Released: 19th November, 2014</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Major Features Release: Please review SPAM comments filtering options to determine where SPAM goes</strong>"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does the Simple Security Firewall compare with other WordPress Security Plugins?"
+msgstr ""
+
+#. Found in faq header.
+msgid "My server has a firewall, why do I need this plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does the IP Whitelist work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does the IP Whitelist support IP ranges?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I want to black list an IP address, where can I do that?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I've locked myself out from my own site!"
+msgstr ""
+
+#. Found in faq header.
+msgid "Which takes precedence... whitelist or blacklist?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What changes go into each version?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I assist with development?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does the pages/parameters whitelist work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does the login cooldown work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does the GASP login protection work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does the 2-factor authentication work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I'm getting an update message although I have auto update enabled?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "you have added your IP address to the firewall blacklist,"
+msgstr ""
+
+#. Found in faq list item.
+msgid "you have enabled 2 factor authentication and email doesn't work on your site (and you haven't chosen the override option)"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Open up an FTP connection to your site, browse to the plugin folder /wp-content/plugins/wp-simple-firewall/"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Create a new file in here called: \"forceOff\"."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Load any page on your WordPress site."
+msgstr ""
+
+#. Found in faq list item.
+msgid "After this, you'll find your WordPress Simple Firewall has been switched off."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please see the dedicated <a href=\"http://icwp.io/firewallhelp\">help centre</a> for details on features and some FAQs."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Easy - we're just better! ;)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "We don't have a premium version and we offer full support - see our <a href=\"https://wordpress.org/support/view/plugin-reviews/wp-simple-firewall\">Reviews for our users' opinions</a>!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Secondly, we don't modify a single core WordPress or web hosting file. This is important and explains why randomly you upgrade your security plugin and your site dies."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Ideally you shouldn't use this along side other Anti-SPAM plugins or security plugins. If there is a feature you need, please feel free to suggest it in the support forums."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"This plugin is an application layer firewall, not a server/network firewall.  It is designed to interpret web calls to your site to\n"
+"look for attempts to circumvent it and gain unauthorized access."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Your network firewall is designed to restrict access to your server based on certain types of network traffic.  The WordPress Simple Firewall\n"
+"is designed to restrict access to your site, based on certain type of web calls."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Any IP address that is on the whitelist will not be subject to <strong>any of the firewall processing</strong>.  This setting takes priority over all other settings."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes. To specify a range you use CIDR notation.  E.g. ABC.DEF.GHJ.KMP/16"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can't. The plugin runs an automatic black list IP system so you don't need to maintain any manual lists."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This happens when any the following 3 conditions are met:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can completely turn OFF (and ON) the WordPress Simple Firewall by creating a special file in the plugin folder."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Here's how:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you want to turn the firewall on in the same way, create a file called \"forceOn\"."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Remember: If you leave one of these files on the server, it will override your on/off settings, so you should delete it when you no longer need it."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Whitelist. So if you have the same address in both lists, it'll be whitelisted and allowed to pass before the blacklist comes into effect."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"The changelog outlines the main changes for each release. We group changes by minor release \"Series\". Changes in smaller \"point\" releases are highlighted\n"
+" using <strong>(v.1)</strong> notation.  So for example, version 4.4<strong>.1</strong> will have changelog items appended with <strong>(v.1)</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes! We actively <a href=\"https://github.com/FernleafSystems/wp-simple-firewall\">develop our plugin on Github</a> and the best thing you can do is submit pull request and bug reports which we'll review."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "It is a comma-separated list of pages and parameters. A NEW LINE should be taken for each new page name and its associated parameters."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The first entry on each line (before the first comma) is the page name. The rest of the items on the line are the parameters."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The following are some simple examples to illustrate:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>edit.php, featured</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "On the edit.php page, the parameter with the name 'featured' will be ignored."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>admin.php, url, param01, password</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Any parameters that are passed to the page ending in 'admin.php' with the names 'url', 'param01' and 'password' will\n"
+"be excluded from the firewall processing."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "*, url, param, password"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Putting a star first means that these exclusions apply to all pages.  So for every page that is accessed, all the parameters\n"
+"that are url, param and password will be ignored by the firewall."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"When enabled the plugin will prevent more than 1 login attempt to your site every \"so-many\" seconds.  So if you enable a login cooldown\n"
+"of 60 seconds, only 1 login attempt will be processed every 60 seconds.  If you login incorrectly, you wont be able to attempt another\n"
+"login for a further 60 seconds."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "More Info: http://icwp.io/2t"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This is best <a href=\"http://icwp.io/2u\">described on the blog</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<a href=\"http://icwp.io/2v\">2-Factor Authentication is best described here</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"The Automatic (Background) WordPress updates happens on a WordPress schedule - it doesn't happen immediately when an update is detected.\n"
+"You can either manually upgrade, or WordPress will handle it in due course."
+msgstr ""

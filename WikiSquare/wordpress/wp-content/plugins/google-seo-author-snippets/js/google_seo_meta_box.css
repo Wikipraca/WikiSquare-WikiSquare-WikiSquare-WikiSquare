@@ -1,0 +1,160 @@
+/**
+
+ * Metabox Tabs
+
+ */
+
+.google_seo_meta_box ul.google_seo_metabox-tabs {
+
+	display: none;
+
+	margin-top: 12px;
+
+	margin-bottom: 3px;
+
+}
+
+.google_seo_meta_box ul {
+
+	list-style: none;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs li {
+
+	display: inline;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs li.active {
+
+	border-style: solid solid none;
+
+	border-width: 1px 1px 0;
+
+	background: #fff;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs li {
+
+	padding: 5px;
+
+	-moz-border-radius: 3px 3px 0 0;
+
+	-webkit-border-top-left-radius: 3px;
+
+	-webkit-border-top-right-radius: 3px;
+
+	-khtml-border-top-left-radius: 3px;
+
+	-khtml-border-top-right-radius: 3px;
+
+	border-top-left-radius: 3px;
+
+	border-top-right-radius: 3px;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs a {
+
+	text-decoration: none;
+
+}
+
+.google_seo_meta_box div.tabs-panel {
+
+	overflow: auto;
+
+	padding: 0.5em 0.9em;
+
+	border-style: solid;
+
+	border-width: 1px;
+
+}
+
+.google_seo_meta_box .heading {
+
+	padding-left:10px;
+
+}
+
+.google_seo_meta_box .tab-content{
+
+	overflow: auto;
+
+	padding: 0.5em 0.9em;
+
+	border-style: solid;
+
+	border-width: 1px;
+
+	background: #fff;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs li.active {
+
+	background-color: #fff;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs li.active, div.tab-content {
+
+	border-color: #D1E5EE;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs .active a {
+
+	color: #333;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs li.active, div.tab-content {
+
+	border-color: #DFDFDF;
+
+}
+
+.google_seo_meta_box ul.google_seo_metabox-tabs .active a {
+
+	color: #333;
+
+}
+
+
+
+/********** Added for rating box *******/
+
+#wps_seo_booster_flush_label {
+
+	padding-top: 5px;
+
+}
+
+.wps-seo-rating-loader {
+
+	padding: 6px 0px 0px 45px !important;
+
+	display: none;
+
+	float: left;
+
+}
+
+.wps-seo-meta-flush-btn{
+
+	float: right;
+
+}
+
+#wps_seo_booster_flush_message {
+
+	clear: both;
+
+}
+.mandatory {
+  color:red;
+}

@@ -1,0 +1,53 @@
+.flickr-me-feed {
+	padding-top: 0.625em;
+	position: relative;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.flickr-me-feed:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.flickr-me-feed a {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	font-size: inherit;
+	line-height: inherit;
+	margin-bottom: 1.25em;
+	padding: 0.625em;
+	text-align: center;
+	-moz-transition: all 0.25s ease-in-out 0s;
+	-ms-transition: all 0.25s ease-in-out 0s;
+	-o-transition: all 0.25s ease-in-out 0s;
+	-webkit-transition: all 0.25s ease-in-out 0s;
+	transition: all 0.25s ease-in-out 0s;
+}
+.flickr-me-feed a.flickr-me-grid {
+	float: left;
+	margin: 0 2.63158% 0.75em;
+	padding: 0.3125em;
+	width: 44.2105%;
+}
+.flickr-me-feed a:hover {
+	border-color: #fff;
+	-webkit-box-shadow: 0 1px 5px 2px rgba(51, 51, 51, 0.45);
+	box-shadow: 0 1px 5px 2px rgba(51, 51, 51, 0.45);
+}
+.flickr-me-feed img {
+	height: auto;
+	margin: 0 auto;
+	max-width: 100%;
+	width: auto;	
+}
+.flickr-me-feed span {
+	margin-top: 0.625em;
+}
+.flickr-me-feed a,
+.flickr-me-feed img,
+.flickr-me-feed a span {
+	display: block;
+}
