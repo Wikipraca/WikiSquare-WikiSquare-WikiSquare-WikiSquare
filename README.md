@@ -5,7 +5,7 @@ This new multisite template, which enables to host multiple subsites within the 
 - [Network Posts Extended](https://wordpress.org/plugins/network-posts-extended/)
 - [Meta Slider](https://wordpress.org/plugins/ml-slider/)
 
-To create your *WikiSquare*, you just need to download the Wikipraça / WikiSquare template  and put it on your blog and / or server. here you have our [free logos](https://www.flickr.com/photos/wikipracasp/sets/72157646777522602) Wikisquare (English) - Wikipraça (Portuguese) - WikiPlaza (Spanish) 
-If you are interested in hosting your wikisquare in [wikipraca.org](http://wikipraca.org/) platform, write us to wikipraca@riseup.net.
+To create your *WikiSquare*, you just need to download the Wikipraça / WikiSquare template  and put it on your blog and / or server. here you have our [free logos](https://www.flickr.com/photos/wikipracasp/sets/72157646777522602) Wikisquare (English) - Wikipraça (Portuguese) - WikiPlaza (Spanish). 
+If you are interested in hosting your wikisquare in [wikipraca.org](http://wikipraca.org/) platform, write us to wikipraca@riseup.net / bernardobrasil@riseup.net.
 
 The project was developed by [Futura Media](http://futuramedia.net/) (São Paulo). We like free software and free culture. But in our organizational method me mix propietary and free tools.. Here you have a [text](http://wikipraca.org/faca-sua-wikipraca/)  (Portuguese), with our method. Please, remix it and adapt it to your necessities.
