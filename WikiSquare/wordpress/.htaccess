@@ -11,10 +11,3 @@ RewriteRule ^ - [L]
 RewriteRule ^([_0-9a-zA-Z-]+/)?(wp-(content|admin|includes).*) $2 [L]
 RewriteRule ^([_0-9a-zA-Z-]+/)?(.*\.php)$ $2 [L]
 RewriteRule . index.php [L]
-
-
-# BEGIN Brute Force Login Protection
-<FilesMatch ".*\.(php|html?|css|js|jpe?g|png|gif)$">
-order deny,allow
-</FilesMatch>
-# END Brute Force Login Protection
